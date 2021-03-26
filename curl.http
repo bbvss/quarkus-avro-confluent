@@ -1,0 +1,9 @@
+POST http://localhost:8080/movies
+Content-Type: application/json
+
+{
+  "title": "The Shawshank Redemption",
+  "year": 1994
+}
+
+###
